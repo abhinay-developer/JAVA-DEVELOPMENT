@@ -1,0 +1,130 @@
+1)Welcome Program.
+
+2)DataTypes
+        DataTypes(c)
+           
+3)Methods
+     
+  Programs with Addition(m):
+
+       1)with return type without parameter  
+       2)with return type with parameter       
+       3)without return type with parameter
+       4)without return without parameter
+ 
+     Programs with displayName(Strings):
+
+       1)with return type without parameter  
+       2)with return type with parameter       
+       3)without return type with parameter
+       4)without return without parameter
+
+4)DataTypes 
+    Task 1-student(c)
+                student(main)
+                main(c)
+    Task 2-employee(c)
+                employe(main)
+                main(c)
+    Task 3-bike(c)
+                bike(main)
+                main(c)
+
+5)Static variable programs
+    
+    Task 1-employee(c)
+                employee(m)
+                main(c)
+
+   Non-Static variable programs
+   
+     Task 2-employee(c)
+                 employee(m)
+                 main(c)
+                 with two Object creations(employee,employee1)
+
+      Task 3-bike(c)
+                  bike(m)
+                  main(c)
+                  with two Object creations(bike,bike1)
+
+      Task 4-shopkeeper(c) Static
+                  customer(c) Non-Static
+                  main(c)
+Non-static:
+
+       Task 5-doctor(c)
+                   patient(c)
+                   main(c)
+ 
+       Task 6-laptop(c)
+                   desktop(c)
+                   main(c)
+
+        Task 7-animal(c)          
+                    bird(c)
+                    main(c)
+
+
+
+6) Constructor in java:
+        
+        Task 1- Addition program (with 2 parameters) 
+        
+        Task 2- addition(c)
+                     addition(m)
+                     main(c)
+                     Addition program (with 0,1,2,3 parameters)
+
+        Task 3- substraction(c)
+                     substraction(m)
+                     main(c)
+                     Substraction program (with 0,1,2,3 parameters)
+
+        Task 4- multiplication(c)
+                     multiplicaion(m)
+                     main(c)
+                     Multiplication program (with 0,1,2,3,4 parameters)
+   
+        Task 5- moduledivision(c)
+                     moduledivision(m)
+                     main(c)
+                     ModuloDivision program (with 0,1,2,3 parameters)
+
+        Task 6- SoftwareCompany
+                              JavaDeveloper(c)
+                              UIDevelopoer(c)
+                              BusinessAnalyst(c)
+                              Tester(c)
+                              Manager(c)
+                              Ceo(c)
+                              main(c)
+                
+       Task 7- Arithematic 
+                         Addition(c)
+                         Substraction(c)
+                         Multiplication(c)
+                         Division(c)
+                         ModuloDivision(c)
+                         main(c)                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
