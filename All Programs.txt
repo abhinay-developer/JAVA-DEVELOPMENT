@@ -92,27 +92,45 @@ Non-static:
                      ModuloDivision program (with 0,1,2,3 parameters)
 
         Task 6- SoftwareCompany
-                              JavaDeveloper(c)
-                              UIDevelopoer(c)
-                              BusinessAnalyst(c)
-                              Tester(c)
-                              Manager(c)
-                              Ceo(c)
-                              main(c)
+                     JavaDeveloper(c)
+                     UIDevelopoer(c)
+                     BusinessAnalyst(c)
+                     Tester(c)
+                     Manager(c)
+                     Ceo(c)
+                     main(c)
                 
        Task 7- Arithematic 
-                         Addition(c)
-                         Substraction(c)
-                         Multiplication(c)
-                         Division(c)
-                         ModuloDivision(c)
-                         main(c)                           
+                    Addition(c)
+                    Substraction(c)
+                    Multiplication(c)
+                    Division(c)
+                    ModuloDivision(c)
+                    main(c)
+                           
+       Task 8- Packages in Java 
+    
+                    Methods Programs:
 
+                         1)with return type with parameter
+                                   Addition,Multiplication,Substraction,Division,ModuloDivision
+  
+                         2)with return type without parameter 
+                                   Addition,Multiplication,Substraction,Division,ModuloDivision
 
+                         3)without return type with parameter
+                                   Addition,Multiplication,Substraction,Division,ModuloDivision
 
+                         4)without return without parameter
+                                   Addition,Multiplication,Substraction,Division,ModuloDivision
 
+        Task 9- Scanner Class
 
-
+                       1)Addition using scanner class                       
+                       2)Multiplication using scanner class
+                       3)Substraction using scanner class
+                       4)Division using scanner class
+                       5)ModuloDivision using scanner class
 
 
 
